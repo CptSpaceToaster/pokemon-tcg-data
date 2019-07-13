@@ -9418,5 +9418,648 @@
         "value": "×2"
       }
     ]
+  },
+  {
+    "id": "sm10-201",
+    "name": "Greninja & Zoroark-GX",
+    "nationalPokedexNumber": 571,
+    "imageUrl": "https://images.pokemontcg.io/sm10/201.png",
+    "imageUrlHiRes": "https://images.pokemontcg.io/sm10/201_hires.png",
+    "types": [
+      "Darkness"
+    ],
+    "supertype": "Pokémon",
+    "subtype": "TAG TEAM",
+    "hp": "250",
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "201",
+    "artist": "kodama",
+    "rarity": "Rare Ultra",
+    "series": "Sun & Moon",
+    "set": "Unbroken Bonds",
+    "setCode": "sm10",
+    "text": [
+      "When your TAG TEAM is knocked out, your opponent takes 3 Prize Cards."
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Darkness",
+          "Colorless"
+        ],
+        "name": "Dark Pulse",
+        "text": "This attack does 30 more damage times the amount of Darkness Energy attached to all of your Pokémon.",
+        "damage": "30+",
+        "convertedEnergyCost": 2
+      },
+      {
+        "cost": [
+          "Darkness",
+          "Colorless"
+        ],
+        "name": "Dark Union-GX",
+        "text": "Put 2 in any combination of Darkness Pokémon-GX and Darkness Pokémon-EX from your discard pile onto your Bench. If this Pokémon has at least 1 extra Energy attached to it (in addition to this attack's cost), attach 2 Energy cards from your discard pile to each Pokémon that you put onto your Bench in this way. (You can't use more than 1 GX attack in a game.)",
+        "damage": "",
+        "convertedEnergyCost": 2
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Psychic",
+        "value": "-20"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ]
+  },
+  {
+    "id": "sm10-202",
+    "name": "Honchkrow-GX",
+    "nationalPokedexNumber": 430,
+    "imageUrl": "https://images.pokemontcg.io/sm10/202.png",
+    "imageUrlHiRes": "https://images.pokemontcg.io/sm10/202_hires.png",
+    "types": [
+      "Darkness"
+    ],
+    "supertype": "Pokémon",
+    "subtype": "GX",
+    "evolvesFrom": "Murkrow",
+    "ability": {
+      "name": "Ruler of the Night",
+      "text": "As long as this Pokémon is your Active Pokémon, your opponent can't play any Pokémon Tool, Special Energy, or Stadium cards from their hand.",
+      "type": "Ability"
+    },
+    "hp": "210",
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "202",
+    "artist": "sadaji",
+    "rarity": "Rare Ultra",
+    "series": "Sun & Moon",
+    "set": "Unbroken Bonds",
+    "setCode": "sm10",
+    "text": [
+      "When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards."
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Darkness",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Feather Storm",
+        "text": "This attack does 30 damage to 2 of your opponent's Benched Pokémon-GX and Pokémon-EX. (Don't apply Weakness and Resistance for Benched Pokémon.)",
+        "damage": "90",
+        "convertedEnergyCost": 3
+      },
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Unfair-GX",
+        "text": "Your opponent reveals their hand. Discard 2 cards from it. (You can't use more than 1 GX attack in a game.)",
+        "damage": "",
+        "convertedEnergyCost": 2
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-20"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ]
+  },
+  {
+    "id": "sm10-203",
+    "name": "Lucario & Melmetal-GX",
+    "nationalPokedexNumber": 448,
+    "imageUrl": "https://images.pokemontcg.io/sm10/203.png",
+    "imageUrlHiRes": "https://images.pokemontcg.io/sm10/203_hires.png",
+    "types": [
+      "Metal"
+    ],
+    "supertype": "Pokémon",
+    "subtype": "TAG TEAM",
+    "hp": "260",
+    "retreatCost": [
+      "Colorless",
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 3,
+    "number": "203",
+    "artist": "5ban Graphics",
+    "rarity": "Rare Ultra",
+    "series": "Sun & Moon",
+    "set": "Unbroken Bonds",
+    "setCode": "sm10",
+    "text": [
+      "When your TAG TEAM is knocked out, your opponent takes 3 Prize Cards."
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Steel Fist",
+        "text": "Search your deck for a Metal Energy card and attach it to this Pokémon. Then, shuffle your deck.",
+        "damage": "50",
+        "convertedEnergyCost": 2
+      },
+      {
+        "cost": [
+          "Metal",
+          "Metal",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Heavy Impact",
+        "text": "",
+        "damage": "150",
+        "convertedEnergyCost": 4
+      },
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": "Full Metal Wall-GX",
+        "text": "For the rest of this game, your Metal Pokémon take 30 less damage from your opponent's attacks (after applying Weakness and Resistance). If this Pokémon has at least 1 extra Energy attached to it (in addition to this attack's cost), discard all Energy from your opponent's Active Pokémon. (You can't use more than 1 GX attack in a game.)",
+        "damage": "",
+        "convertedEnergyCost": 1
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Psychic",
+        "value": "-20"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ]
+  },
+  {
+    "id": "sm10-204",
+    "name": "Gardevoir & Sylveon-GX",
+    "nationalPokedexNumber": 282,
+    "imageUrl": "https://images.pokemontcg.io/sm10/204.png",
+    "imageUrlHiRes": "https://images.pokemontcg.io/sm10/204_hires.png",
+    "types": [
+      "Fairy"
+    ],
+    "supertype": "Pokémon",
+    "subtype": "TAG TEAM",
+    "hp": "260",
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "204",
+    "artist": "5ban Graphics",
+    "rarity": "Rare Ultra",
+    "series": "Sun & Moon",
+    "set": "Unbroken Bonds",
+    "setCode": "sm10",
+    "text": [
+      "When your TAG TEAM is knocked out, your opponent takes 3 Prize Cards."
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": "Fairy Song",
+        "text": "Search your deck for up to 2 Fairy Energy cards and attach them to your Benched Pokémon in any way you like. Then, shuffle your deck.",
+        "damage": "",
+        "convertedEnergyCost": 1
+      },
+      {
+        "cost": [
+          "Fairy",
+          "Fairy",
+          "Colorless"
+        ],
+        "name": "Kaleidostorm",
+        "text": "Move any number of Energy from your Pokémon to your other Pokémon in any way you like.",
+        "damage": "150",
+        "convertedEnergyCost": 3
+      },
+      {
+        "cost": [
+          "Fairy",
+          "Fairy",
+          "Fairy"
+        ],
+        "name": "Magical Miracle-GX",
+        "text": "If this Pokémon has at least 3 extra Fairy Energy attached to it (in addition to this attack's cost), your opponent shuffles their hand into their deck. (You can't use more than 1 GX attack in a game.)",
+        "damage": "200",
+        "convertedEnergyCost": 3
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Darkness",
+        "value": "-20"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metal",
+        "value": "×2"
+      }
+    ]
+  },
+  {
+    "id": "sm10-205",
+    "name": "Gardevoir & Sylveon-GX",
+    "nationalPokedexNumber": 282,
+    "imageUrl": "https://images.pokemontcg.io/sm10/205.png",
+    "imageUrlHiRes": "https://images.pokemontcg.io/sm10/205_hires.png",
+    "types": [
+      "Fairy"
+    ],
+    "supertype": "Pokémon",
+    "subtype": "TAG TEAM",
+    "hp": "260",
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "205",
+    "artist": "Atsuko Nishida",
+    "rarity": "Rare Ultra",
+    "series": "Sun & Moon",
+    "set": "Unbroken Bonds",
+    "setCode": "sm10",
+    "text": [
+      "When your TAG TEAM is knocked out, your opponent takes 3 Prize Cards."
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": "Fairy Song",
+        "text": "Search your deck for up to 2 Fairy Energy cards and attach them to your Benched Pokémon in any way you like. Then, shuffle your deck.",
+        "damage": "",
+        "convertedEnergyCost": 1
+      },
+      {
+        "cost": [
+          "Fairy",
+          "Fairy",
+          "Colorless"
+        ],
+        "name": "Kaleidostorm",
+        "text": "Move any number of Energy from your Pokémon to your other Pokémon in any way you like.",
+        "damage": "150",
+        "convertedEnergyCost": 3
+      },
+      {
+        "cost": [
+          "Fairy",
+          "Fairy",
+          "Fairy"
+        ],
+        "name": "Magical Miracle-GX",
+        "text": "If this Pokémon has at least 3 extra Fairy Energy attached to it (in addition to this attack's cost), your opponent shuffles their hand into their deck. (You can't use more than 1 GX attack in a game.)",
+        "damage": "200",
+        "convertedEnergyCost": 3
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Darkness",
+        "value": "-20"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metal",
+        "value": "×2"
+      }
+    ]
+  },
+  {
+    "id": "sm10-206",
+    "name": "Whimsicott-GX",
+    "nationalPokedexNumber": 547,
+    "imageUrl": "https://images.pokemontcg.io/sm10/206.png",
+    "imageUrlHiRes": "https://images.pokemontcg.io/sm10/206_hires.png",
+    "types": [
+      "Fairy"
+    ],
+    "supertype": "Pokémon",
+    "subtype": "GX",
+    "evolvesFrom": "Cottonee",
+    "ability": {
+      "name": "Fluffy Cotton",
+      "text": "If any damage is done to this Pokémon by attacks, flip a coin. If heads, prevent that damage.",
+      "type": "Ability"
+    },
+    "hp": "190",
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "206",
+    "artist": "5ban Graphics",
+    "rarity": "Rare Ultra",
+    "series": "Sun & Moon",
+    "set": "Unbroken Bonds",
+    "setCode": "sm10",
+    "text": [
+      "When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards."
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Fairy"
+        ],
+        "name": "Energy Blow",
+        "text": "This attack does 30 more damage times the amount of Energy attached to this Pokémon.",
+        "damage": "10+",
+        "convertedEnergyCost": 1
+      },
+      {
+        "cost": [
+          "Fairy"
+        ],
+        "name": "Toy Box-GX",
+        "text": "Search your deck for up to 5 cards and put them into your hand. Then, shuffle your deck. (You can't use more than 1 GX attack in a game.)",
+        "damage": "",
+        "convertedEnergyCost": 1
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Darkness",
+        "value": "-20"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metal",
+        "value": "×2"
+      }
+    ]
+  },
+  {
+    "id": "sm10-207",
+    "name": "Persian-GX",
+    "nationalPokedexNumber": 53,
+    "imageUrl": "https://images.pokemontcg.io/sm10/207.png",
+    "imageUrlHiRes": "https://images.pokemontcg.io/sm10/207_hires.png",
+    "types": [
+      "Colorless"
+    ],
+    "supertype": "Pokémon",
+    "subtype": "GX",
+    "evolvesFrom": "Meowth",
+    "ability": {
+      "name": "Cat Walk",
+      "text": "Once during your turn (before your attack), if 1 of your Pokémon-GX or Pokémon-EX was Knocked Out during your opponent's last turn, you may search your deck for up to 2 cards and put them into your hand. Then, shuffle your deck. You can't use more than 1 Cat Walk Ability each turn.",
+      "type": "Ability"
+    },
+    "hp": "200",
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "207",
+    "artist": "5ban Graphics",
+    "rarity": "Rare Ultra",
+    "series": "Sun & Moon",
+    "set": "Unbroken Bonds",
+    "setCode": "sm10",
+    "text": [
+      "When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards."
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Vengeance",
+        "text": "This attack does 20 more damage for each Pokémon in your discard pile. You can't add more than 180 damage in this way.",
+        "damage": "10+",
+        "convertedEnergyCost": 3
+      },
+      {
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Slash Back-GX",
+        "text": "Switch this Pokémon with 1 of your Benched Pokémon. (You can't use more than 1 GX attack in a game.)",
+        "damage": "150",
+        "convertedEnergyCost": 3
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ]
+  },
+  {
+    "id": "sm10-208",
+    "name": "Celesteela-GX",
+    "nationalPokedexNumber": 797,
+    "imageUrl": "https://images.pokemontcg.io/sm10/208.png",
+    "imageUrlHiRes": "https://images.pokemontcg.io/sm10/208_hires.png",
+    "types": [
+      "Colorless"
+    ],
+    "supertype": "Pokémon",
+    "subtype": "GX",
+    "ability": {
+      "name": "Force Canceler",
+      "text": "As long as this Pokémon is your Active Pokémon, prevent all effects of your opponent's GX attacks, including damage, done to your Pokémon.",
+      "type": "Ability"
+    },
+    "hp": "200",
+    "retreatCost": [
+      "Colorless",
+      "Colorless",
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 4,
+    "number": "208",
+    "artist": "aky CG Works",
+    "rarity": "Rare Ultra",
+    "series": "Sun & Moon",
+    "set": "Unbroken Bonds",
+    "setCode": "sm10",
+    "text": [
+      "When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards."
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Power Cyclone",
+        "text": "Move an Energy from this Pokémon to 1 of your Benched Pokémon.",
+        "damage": "110",
+        "convertedEnergyCost": 3
+      },
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": "Discovery-GX",
+        "text": "Count your Prize cards and put them into your hand. Then, take that many cards from the top of your deck and put them face down as your Prize cards. If you don't have that many cards in your deck, this attack does nothing. (You can't use more than 1 GX attack in a game.)",
+        "damage": "",
+        "convertedEnergyCost": 1
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-20"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ]
+  },
+  {
+    "id": "sm10-209",
+    "name": "Green's Exploration",
+    "imageUrl": "https://images.pokemontcg.io/sm10/209.png",
+    "imageUrlHiRes": "https://images.pokemontcg.io/sm10/209_hires.png",
+    "supertype": "Trainer",
+    "subtype": "Supporter",
+    "number": "209",
+    "artist": "Naoki Saito",
+    "rarity": "Rare Ultra",
+    "series": "Sun & Moon",
+    "set": "Unbroken Bonds",
+    "setCode": "sm10",
+    "text": [
+      "You can play this card only if you have no Pokémon with Abilities in play. Search your deck for up to 2 Trainer cards, reveal them, and put them into your hand. Then, shuffle your deck."
+    ]
+  },
+  {
+    "id": "sm10-210",
+    "name": "Janine",
+    "imageUrl": "https://images.pokemontcg.io/sm10/210.png",
+    "imageUrlHiRes": "https://images.pokemontcg.io/sm10/210_hires.png",
+    "supertype": "Trainer",
+    "subtype": "Supporter",
+    "number": "210",
+    "artist": "Hideki Ishikawa",
+    "rarity": "Rare Ultra",
+    "series": "Sun & Moon",
+    "set": "Unbroken Bonds",
+    "setCode": "sm10",
+    "text": [
+      "Look at the top 4 cards of your deck and put 2 of them into your hand. Shuffle the other cards back into your deck."
+    ]
+  },
+  {
+    "id": "sm10-211",
+    "name": "Koga's Trap",
+    "imageUrl": "https://images.pokemontcg.io/sm10/211.png",
+    "imageUrlHiRes": "https://images.pokemontcg.io/sm10/211_hires.png",
+    "supertype": "Trainer",
+    "subtype": "Supporter",
+    "number": "211",
+    "artist": "TOKIYA",
+    "rarity": "Rare Ultra",
+    "series": "Sun & Moon",
+    "set": "Unbroken Bonds",
+    "setCode": "sm10",
+    "text": [
+      "Your opponent's Active Pokémon is now Confused and Poisoned."
+    ]
+  },
+  {
+    "id": "sm10-212",
+    "name": "Molayne",
+    "imageUrl": "https://images.pokemontcg.io/sm10/212.png",
+    "imageUrlHiRes": "https://images.pokemontcg.io/sm10/212_hires.png",
+    "supertype": "Trainer",
+    "subtype": "Supporter",
+    "number": "212",
+    "artist": "Masakazu Fukuda",
+    "rarity": "Rare Ultra",
+    "series": "Sun & Moon",
+    "set": "Unbroken Bonds",
+    "setCode": "sm10",
+    "text": [
+      "You can play this card only if you discard 2 Metal Energy cards from your hand. Shuffle a Trainer card from your discard pile into your deck."
+    ]
+  },
+  {
+    "id": "sm10-213",
+    "name": "Red's Challenge",
+    "imageUrl": "https://images.pokemontcg.io/sm10/213.png",
+    "imageUrlHiRes": "https://images.pokemontcg.io/sm10/213_hires.png",
+    "supertype": "Trainer",
+    "subtype": "Supporter",
+    "number": "213",
+    "artist": "Naoki Saito",
+    "rarity": "Rare Ultra",
+    "series": "Sun & Moon",
+    "set": "Unbroken Bonds",
+    "setCode": "sm10",
+    "text": [
+      "You can play this card only if you discard 2 other cards from your hand. Search your deck for a card and put it into your hand. Then, shuffle your deck."
+    ]
+  },
+  {
+    "id": "sm10-214",
+    "name": "Welder",
+    "imageUrl": "https://images.pokemontcg.io/sm10/214.png",
+    "imageUrlHiRes": "https://images.pokemontcg.io/sm10/214_hires.png",
+    "supertype": "Trainer",
+    "subtype": "Supporter",
+    "number": "214",
+    "artist": "Hitoshi Ariga",
+    "rarity": "Rare Ultra",
+    "series": "Sun & Moon",
+    "set": "Unbroken Bonds",
+    "setCode": "sm10",
+    "text": [
+      "Attach up to 2 Fire Energy cards from your hand to 1 of your Pokémon. If you do, draw 3 cards."
+    ]
   }
 ]
